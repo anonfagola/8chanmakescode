@@ -1,4 +1,3 @@
-et project starts with... ENTERPRISE QUALITY.
 #
 # CODE OF CONDUCT THE SJWS HAVE INVADED
 #  * be nice
